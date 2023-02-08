@@ -1,0 +1,27 @@
+{
+  "recommendations": [
+    "TheCodeTherapy.thecodetheme-dark",
+    "vscode-icons-team.vscode-icons",
+    "wayou.vscode-todo-highlight",
+    "roonie007.hide-files",
+    "editorconfig.editorconfig",
+    "boyswan.glsl-literal",
+    "slevesque.shader",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "stylelint.vscode-stylelint",
+    "Zignd.html-css-class-completion",
+    "csstools.postcss",
+    "steoates.autoimport",
+    "ZixuanChen.vitest-explorer",
+    "bradlc.vscode-tailwindcss",
+    "orta.vscode-jest",
+    "christian-kohler.path-intellisense",
+    "DavidAnson.vscode-markdownlint",
+    "eamodio.gitlens",
+    "formulahendry.auto-rename-tag",
+    "foxundermoon.shell-format",
+    "mikestead.dotenv",
+    "ms-vscode.vscode-typescript-next"
+  ]
+}
